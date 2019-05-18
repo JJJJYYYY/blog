@@ -11,7 +11,7 @@
 
 ## webgl
 [webgl学习笔记-从画点开始](https://github.com/JJJYY/blog/issues/11)  
-[https://github.com/JJJYY/blog/issues/12](webgl学习笔记-绘制和变换三角形)  
+[webgl学习笔记-绘制和变换三角形](https://github.com/JJJYY/blog/issues/12)  
 
 ## Promise
 [[译]Promises/A+](https://github.com/JJJYY/blog/issues/3)  
